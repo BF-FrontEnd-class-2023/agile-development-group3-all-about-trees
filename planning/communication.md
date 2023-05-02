@@ -8,19 +8,19 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day                |          How          | The topic of discussion                                                                                                                                                                |
+| ------------------ | :-------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day1 : Planning    | Online meeting (Zoom) | Defining project constraints and goals, identifying communication tools and channels, discussing user personas, creating a product backlog, and discussing initial design ideas.       |
+| Day2 : Development | Online meeting (Zoom) | Reviewing and refining development strategy, discussing any issues or challenges that have arisen, conducting a retrospective to evaluate progress and identify areas for improvement. |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
+- **Issues**: Zoom,Slack
+- **Pull Requests**: Github ,VScode
 - **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Video Calls**: Zoom
 
 ---
 
@@ -28,17 +28,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day        |           Tuesday            |          Wednesday           |
+| ---------- | :--------------------------: | :--------------------------: |
+| _Inna_     | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 |
+| _Zahira_   | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 |
+| _Himanshi_ | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 |
+| _Karol_    | 09:00 - 12:00, 13:00 - 17:00 | 09:00 - 12:00, 13:00 - 17:00 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Inna: _8h_;
+- Zahira: _8h_;
+- Himanshi: _8h_;
+- Karol: _8h_;
 
 ## Asking for Help
 
