@@ -9,7 +9,7 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
+- [ ] As a ... I want to ... so that ....
   - _Given [context] when [a specific action is performed] then [a set of
     consequences should occur]_
 
