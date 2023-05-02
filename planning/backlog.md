@@ -4,6 +4,11 @@
 
 > these are necessary for basic usability
 
+
+- [ ] As a ... I want to ... so that ....
+  - _Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]_
+
 ### Logo
 
 - [ ] As an user I can find the logo of the page
@@ -23,6 +28,7 @@
 
 - [ ] As an user I can easily tell what the page is all about
 - _There's a main content with the text and image_
+
 
 ## Should-Haves
 
