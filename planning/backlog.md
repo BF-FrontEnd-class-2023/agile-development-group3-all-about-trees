@@ -1,30 +1,43 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+### Logo
+
+- [ ] As an user I can find the logo of the page
+  - _There's a logo with correct image with the main name of the page._
+
+### Navigation bar
+
+- [ ] As an user I can navigate through the different content elements
+- _There's a navigation bar with the links_
+
+### Title
+
+- [ ] As an user I can find the title of the page
+- _There's is a clear title centrally positioned in the landing page_
+
+### Main content
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a main content with the text and image_
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+### Links
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As an user I can click link and it will show me the necessary info
+  - _There is a media link in order to convey more information about the
+    content_
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could feature links to relevant pages or
+    resources_
