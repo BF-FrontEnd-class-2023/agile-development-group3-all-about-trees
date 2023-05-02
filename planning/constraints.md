@@ -4,27 +4,21 @@ Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- **Project Deadline**: The project must be completed and launched by may
+  04, 2023.
+- **Technologies**: The client has requested that the project be developed using
+  html and css.
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- **Amount of Time Available**: Team members have other commitments outside of
+  work that limit the amount of time available to work on the project.
+- **Connectivity**: internet connectivity, may impact their ability to
+  collaborate in real-time.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- **Code Review Checklist**: The team has developed a checklist of specific
+  criteria that must be met for each code review in the project repository.
+- **Working Hours**: The team has agreed to work a maximum of 8 hours per day on
+  the project.
