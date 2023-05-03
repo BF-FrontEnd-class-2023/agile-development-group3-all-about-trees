@@ -17,7 +17,8 @@
     "Bilde",
     "Christiaan",
     "Verwijs",
-    "Todos"
+    "Todos",
+    "LinkdIn"
   ],
   "ignorePaths": [
     "node_modules/**",
