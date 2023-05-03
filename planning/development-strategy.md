@@ -27,7 +27,7 @@
 
 ### As a user I want to see the title of the page under the navigation bar
 
-- This user story is developed on branch `1-title`.
+- This user story is developed on branch `title`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -53,16 +53,16 @@
 
 ### css
 
-- add class `ouncy-img` to both `img`
+- add class `bouncy-img` to both `img`
 - add `width` and `height`
-- add `keyframes`
+- add `keyframe`
 - add `hover`
 
 ## 3. Navigation links
 
 ### As a user I want to see navigation links
 
-- This user story is developed on branch `3-navLinks`.
+- This user story is developed on branch `navLinks`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -82,21 +82,27 @@
 
 ### As a user I want to see description of the page
 
-- This user story is developed on branch `4-description`.
+- This user story is developed on branch `main_content`.
 - This branch is merged to `main` branch after completion.
 
 ### html
 
--add ‘photos’
-
-- add `section`
+- add `main` element
+- add `div`
 - add `p`
+- add `figure`
+- add `img`
 
 ### css
 
-- add id `summary-info` to both `section`
-- add class `fascinating-words` to `p`
-- make the font family `fantasy`
+- add class main `display`, `align-items`, `border-radius`
+- add class `main_info` to `div`
+- add class `main__paragraph` to `p`
+- add class `main__image-list`to `div`
+- add class `image_item-1` to `figure`
+- add class `image_item-2` to `figure`
+- add class `image_item-3` to `figure`
+- add class `image_img` to `img`
 
 ## 5. links
 
@@ -122,7 +128,7 @@
 
 ### As a user I want to see social media links to contact the website owner
 
-- This user story is developed on branch `6-socialMedia`.
+- This user story is developed on branch `socialMedia`.
 - This branch is merged to `main` branch after completion.
 
 ### html
