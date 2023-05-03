@@ -1,6 +1,16 @@
 # Name of project
 
-> A longer description
+> The All About Trees project is a web-based resource dedicated to providing
+> information and educational material about trees. The project aims to provide
+> a comprehensive guide about trees, for nature lovers, and students interested
+> in learning about trees, their types, their importance to the environment, and
+> how to care for them.
+>
+> The project will be developed using HTML, CSS, and will be hosted on a public
+> repository on GitHub. The project will be developed following an agile
+> methodology, with user stories and branches created to ensure that the project
+> is developed in a way that meets the needs and requirements of the target
+> audience.
 
 ## Table of contents
 
