@@ -20,6 +20,7 @@
 - add collaborators
 - turn on github pages and give them `write` access
 - protect `main` branch
+- turn on discussion
 
 ---
 
@@ -33,7 +34,7 @@
 ### html
 
 - add `header` tag
-- add `h1` for the page title
+- add `h2` for the page title
 
 ### css
 
@@ -44,7 +45,7 @@
 
 ### As a user I want to see the logo in the left-top of the page
 
-- This user story is developed on branch `2-logos`.
+- This user story is developed on branch `logo`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -70,13 +71,15 @@
 - add two `nav`
 - add a `div` parent
 - add `a`
+- add `ul`
+- add `li`
 
 ### css
 
-- add class `bottom-divider` to both `nav`
-- add `border`
 - add class `spaced-items` to the parent `div`
 - make display `flex` and add `padding`
+- make align-content `left`
+- make justify-content`space-around`
 
 ## 4. Description
 
@@ -128,14 +131,18 @@
 
 ### As a user I want to see social media links to contact the website owner
 
-- This user story is developed on branch `socialMedia`.
+- This user story is developed on branch `footer`.
 - This branch is merged to `main` branch after completion.
 
 ### html
 
 - add `footer`
 - add `a`
+- add `ul`
+- add `li`
 
 ### css
 
-- add class `top-divider` and `spaced-items` to `footer`
+- add class `spaced-items` to `footer`
+- make position `absolute`
+- make background-color `#f5f5f5`
